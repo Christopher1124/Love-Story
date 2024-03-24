@@ -1,0 +1,39 @@
+html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Love Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        h1 {
+            color: #ff69b4;
+        }
+
+        p {
+            color: #333;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Welcome to Our Love World!</h1>
+    <img src="https://example.com/your-image.jpg" alt="Cute Image">
+    <p>This website is a small dedication to the love of my life. You make every moment special!</p>
+    <p>Here's to many more laughs, adventures, and shared memories together and I love you so so much more than anything and anyone !</p>
+    <p>Created with ❤️ by Christopher Chaparro</p>
+</body>
+
+</html>
